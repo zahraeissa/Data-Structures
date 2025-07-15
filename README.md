@@ -1,2 +1,2 @@
 # Data-Structures
-My implementations for some data structures
+My implementation for some data structures
